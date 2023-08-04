@@ -9,7 +9,10 @@ void quicksort()
 {
   //
 }
-
+void mergesort()
+{
+  //
+}
 int main()
 {
 
