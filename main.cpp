@@ -1,7 +1,11 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 void bubblesort()
+{
+  //
+}
+void quicksort()
 {
   //
 }
@@ -9,8 +13,8 @@ void bubblesort()
 int main()
 {
 
-cout<<"Hey Sumeet!"<<endl;
-cout<<"Hello World!!"<<endl;
+  cout << "Hey Sumeet!" << endl;
+  cout << "Hello World!!" << endl;
 
-return 0;
+  return 0;
 }
